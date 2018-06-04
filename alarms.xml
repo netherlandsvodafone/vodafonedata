@@ -11,7 +11,7 @@
         <Record name="MO.Identifier" value="S00755.nl"/>
         <Record name="MO.RAN Parent (Resource).Identifier" value=""/>
         <Record name="MO.Location (Resource).Identifier" value="NL-  .nl"/>
-        <Record name="Displayed Text" value="ST(1): CELL LOGICAL CHANNEL AVAILABILITY SUPERVISION&#xA;CELL       SCTYPE      CHTYPE       CHRATE    SPV&#xA;G007551                BCCH&#xA;SDCCH&#xA;TCH         FR        1&#xA;CBCH"/>
+        <Record name="Displayed Text" value="ST(1): CELL LOGICAL CHANNEL AVAILABILITY SUPERVISION&#xA;CELL       SCTYPE      CHTYPE       CHRATE    SPV&#xA;G007551                BCCH&#xA;SDCCH&#xA;TCH          FR        1&#xA;CBCH"/>
         <Record name="Note" value="E1/317259"/>
         <Record name="Auto Operator Note" value=""/>
         <Record name="MO TT Info" value="VFNLINC00317259/Assigned"/>
